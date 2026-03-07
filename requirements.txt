@@ -1,0 +1,6 @@
+mne
+cebra
+numpy
+scikit-learn
+matplotlib
+jupyter
