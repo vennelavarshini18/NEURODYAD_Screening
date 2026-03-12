@@ -1,4 +1,4 @@
-# NeuroDyads GSoC 2026: Brain-to-Brain Decoder Pre-Task
+# ML4SCI NeuroDyads GSoC 2026: Brain-to-Brain Decoder Pre-Task
 
 **Candidate:** Vennela Varshini Anasoori  
 **Email:** vennelavarshini07@gmail.com  
